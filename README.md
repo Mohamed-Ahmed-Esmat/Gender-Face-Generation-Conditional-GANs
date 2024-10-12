@@ -59,6 +59,6 @@ Below is an example of the generated facial images based on gender:
 ## Acknowledgements
 - The project is inspired by the concept of [Conditional GANs (CGANs)](https://arxiv.org/pdf/1411.1784), as introduced by Mirza and Osindero (2014).
 ## Licenses
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT [`LICENSE`](LICENSE) - see the LICENSE file for details.
 
 
