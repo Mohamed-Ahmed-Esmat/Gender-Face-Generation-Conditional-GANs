@@ -50,11 +50,18 @@ The notebook is organized as follows:
 5. **Evaluation and Results:** Generated images are visualized, and the performance of the model is evaluated through various metrics.
 
 ## Example Output:
-Below is an example of the generated facial images based on gender:
-- Women
-- ![image](https://github.com/user-attachments/assets/1e659293-71cc-4383-8d78-402d95db8e83)
-- Men
-- ![image](https://github.com/user-attachments/assets/dab92b78-5f7f-4e27-be26-dc0726bc45ff)
+Below are examples of the generated facial images conditioned on gender:
+
+<div>
+  <h4>Women:</h4>
+  <img src="https://github.com/user-attachments/assets/1e659293-71cc-4383-8d78-402d95db8e83" alt="Generated Women Faces" width="400" />
+</div>
+
+<div>
+  <h4>Men:</h4>
+  <img src="https://github.com/user-attachments/assets/dab92b78-5f7f-4e27-be26-dc0726bc45ff" alt="Generated Men Faces" width="400" />
+</div>
+
 
 ## Acknowledgements
 - The project is inspired by the concept of [Conditional GANs (CGANs)](https://arxiv.org/pdf/1411.1784), as introduced by Mirza and Osindero (2014).
