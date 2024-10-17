@@ -31,7 +31,7 @@ pip install kaggle tensorflow keras numpy matplotlib
 ## Running the Notebook
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/cgan-faces.git
+git clone https://github.com/Mohamed-Ahmed-Esmat/Gender-Face-Generation-Conditional-GANs.git
 cd cgan-faces
 ```
 2. Open the notebook
