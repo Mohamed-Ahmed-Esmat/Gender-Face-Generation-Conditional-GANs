@@ -46,8 +46,8 @@ The notebook is organized as follows:
 1. **Dataset Download:** The dataset is downloaded from Kaggle using the Kaggle API and unzipped for further processing.
 2. **Data Preprocessing:** The images are resized, normalized, and split into training and validation sets.
 3. **Model Architecture:** The Conditional GAN model is built using TensorFlow and Keras, where the generator and discriminator networks are defined.
-4. **Training:** The model is trained to generate facial images conditioned on gender labels.
-5. **Evaluation and Results:** Generated images are visualized, and the performance of the model is evaluated through various metrics.
+4. **Training:** The model is trained to generate facial images conditioned on gender labels. Training is on 150 epochs
+5. **Evaluation and Results:** Generated images are visualized.
 
 ## Example Output:
 Below are examples of the generated facial images conditioned on gender:
